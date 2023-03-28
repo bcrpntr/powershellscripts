@@ -1,7 +1,7 @@
-# Set variables for HTML output file and credential
+# Set variables for HTML output file
 $outputFile = "C:\temp\serviceaccounts.html"
-# Uncomment the below if you need to use credentials other than the logged in user. 
-# Attempt will be made for logged in user first, so can use two separate accounts for full range of servers.
+# Uncomment the below if you need to use credentials other than the logged in user
+# Attempt will be made for logged in user first, so can use two separate accounts for full range of servers
 #$cred = Get-Credential
 
 # Get list of servers from Active Directory
